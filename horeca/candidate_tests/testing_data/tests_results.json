@@ -1,0 +1,66 @@
+{
+    "MMPI": [
+        {
+            "candidate": "Овчаренко Павел",
+            "scales": [
+                {
+                    "scale": "L",
+                    "value": 46
+                },
+                {
+                    "scale": "F",
+                    "value": 47
+                },
+                {
+                    "scale": "K",
+                    "value": 38
+                },
+                {
+                    "scale": "Hs",
+                    "value": 36
+                },
+                {
+                    "scale": "D",
+                    "value": 23
+                },
+                {
+                    "scale": "Hy",
+                    "value": 36
+                },
+                {
+                    "scale": "Pd",
+                    "value": 46
+                },
+                {
+                    "scale": "Mm",
+                    "value": 62
+                },
+                {
+                    "scale": "Pa",
+                    "value": 42
+                },
+                {
+                    "scale": "Pt",
+                    "value": 24
+                },
+                {
+                    "scale": "Sc",
+                    "value": 0
+                },
+                {
+                    "scale": "Ma",
+                    "value": 64
+                },
+                {
+                    "scale": "Si",
+                    "value": 68
+                }
+            ],
+            "peak_scales": [
+                "Mm",
+                "Ma",
+                "Si"
+            ]
+        }
+    ]
+}

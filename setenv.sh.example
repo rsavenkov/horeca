@@ -1,0 +1,26 @@
+# Django
+export HORECA_SECRET_KEY='0il&kw0v#^ks8fj+%95_#563kgr&*ho88r$--1l7i%pw2*cq20'
+export HORECA_DEBUG=True
+export HORECA_ALLOWED_HOSTS='*'
+export HORECA_STATIC_URL='/admin/static/'
+
+# Database
+export HORECA_DB_NAME='horeca'
+export HORECA_DB_USER='horeca-user'
+export HORECA_DB_PASSWORD='horeca2k21'
+export HORECA_DB_HOST='localhost'
+export HORECA_DB_PORT='5432'
+export HORECA_DB_VERSION=11
+
+# EMAIL
+export HORECA_EMAIL_HOST_USER='horeca.develop@gmail.com'
+export HORECA_EMAIL_HOST='smtp.gmail.com'
+export HORECA_EMAIL_HOST_PASSWORD='PEz94hY7k6'
+export HORECA_EMAIL_PORT=587
+export HORECA_EMAIL_USE_TLS=True
+
+export HORECA_HOST='https://horeca-dev.bsl.dev'
+
+export HORECA_VERSION=$(git describe --abbrev=4 --dirty --always --tags)
+
+export PDF_GENERATOR_HOST='https://pdfgen-horeca.bsl.dev'

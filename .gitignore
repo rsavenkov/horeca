@@ -1,0 +1,25 @@
+# Byte-compiled files
+__pycache__/
+*.pyc
+
+# Venv files
+venv/
+
+# Django
+*.log
+*.pot
+
+# media
+media/
+
+# folders
+static/
+build/
+dist/
+
+# eggs
+*.egg-info
+
+setenv.sh
+
+*xlsx#
